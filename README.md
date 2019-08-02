@@ -1,3 +1,13 @@
+# JUNKSHOT VERSION !!!
+- Do a `pip3 install -r requirements.txt` before you start
+- run `jupyter notebook` in this dir
+- scrape that shet
+- save as `input.txt` in `data/junkshot` (already done for you)
+- train model
+- generate some shet
+- lol
+- rekt
+
 # text-rnn-tensorflow
 Tutorial: Multi-layer Recurrent Neural Networks (LSTM) for text models in Python using TensorFlow.
 
